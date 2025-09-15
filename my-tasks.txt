@@ -1,0 +1,4 @@
+1. Estudar Git e GitHub
+2. Praticar Python
+3. Avançar no projeto da pós-graduação
+4. Revisar conceitos de Docker e Kubernetes
