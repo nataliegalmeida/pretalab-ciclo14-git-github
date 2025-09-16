@@ -2,3 +2,5 @@
 2. Praticar Python
 3. Avançar no projeto da pós-graduação
 4. Revisar conceitos de Docker e Kubernetes
+5. Estudar inglês
+6. Estudar conceitos de Engenharia de Software
