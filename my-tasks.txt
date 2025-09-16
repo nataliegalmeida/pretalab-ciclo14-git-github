@@ -4,3 +4,4 @@
 4. Revisar conceitos de Docker e Kubernetes
 5. Estudar inglês
 6. Estudar conceitos de Engenharia de Software
+7. Revisar CI/CD
